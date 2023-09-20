@@ -5,13 +5,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCTxNmzjSUpc5JNpotKUm_WGFf8qinrUyE",
-  authDomain: "mentalhealth-20340.firebaseapp.com",
-  projectId: "mentalhealth-20340",
-  storageBucket: "mentalhealth-20340.appspot.com",
-  messagingSenderId: "1092413338670",
-  appId: "1:1092413338670:web:7d29fee9958b582bc05bbf",
-  measurementId: "G-DCTJD8VM77"
+  apiKey: "AIzaSyBbTohVQRM3fInV05HOI6qAssUhoxZhok4",
+  authDomain: "pupmoodles.firebaseapp.com",
+  projectId: "pupmoodles",
+  storageBucket: "pupmoodles.appspot.com",
+  messagingSenderId: "660527497440",
+  appId: "1:660527497440:web:5e1ed99bb4c3c46124d085",
+  measurementId: "G-QERPJL15RQ"
 };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
